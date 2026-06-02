@@ -1,6 +1,6 @@
 ## Hi, I'm Diae Eddine 👋
 
-🎓 Computer Systems Engineering Student @ SUP MTI<br/>
+🎓 Computer Systems Engineering Student<br/>
 💻 Full-Stack Web Developer | Passionate about building scalable and efficient web applications<br/>
 🚀 Always learning and exploring new technologies
 
